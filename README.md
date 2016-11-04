@@ -1,2 +1,0 @@
-# dcgenerators
-learning get remote
